@@ -1,6 +1,6 @@
 {
-    "PYPE_STUDIO_NAME": "Studio Name",
-    "PYPE_STUDIO_CODE": "stu",
+    "PYPE_STUDIO_NAME": "ClothCat",
+    "PYPE_STUDIO_CODE": "CCAS",
     "PYPE_APP_ROOT": "{PYPE_ROOT}/pypeapp",
     "PYPE_MODULE_ROOT": "{PYPE_ROOT}/repos/pype",
     "STUDIO_SOFT": "{PYPE_STUDIO_SOFTWARE}",
