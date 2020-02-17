@@ -1,44 +1,44 @@
 {
-  "studio": {
-    "projects": {
-      "path": {
-        "windows": "//kre-p01/share/projects",
-        "darwin": "",
-        "linux": "/mnt/share/projects"
-      },
-      "mount": {
-        "windows": "K:/core",
-        "darwin": "",
-        "linux": "/mnt/share/core"
-      }
+    "studio": {
+        "projects": {
+            "path": {
+                "windows": "//evo2/stc/projects",
+                "darwin": "",
+                "linux": "/mnt/share/projects"
+            },
+            "mount": {
+                "windows": "S:/projects",
+                "darwin": "",
+                "linux": "/mnt/share/core"
+            }
+        },
+        "core": {
+            "path": {
+                "windows": "//pype/core/",
+                "darwin": "",
+                "linux": "/mnt/share/core"
+            },
+            "mount": {
+                "windows": "P:/",
+                "darwin": "",
+                "linux": "/mnt/share/core"
+            }
+        }
     },
-    "core": {
-      "path": {
-        "windows": "//kre-c01/share/core",
-        "darwin": "",
-        "linux": "/mnt/share/core"
-      },
-      "mount": {
-        "windows": "K:/core",
-        "darwin": "",
-        "linux": "/mnt/share/core"
-      }
+    "local": {
+        "projects": {
+            "path": {
+                "windows": "D:/projects",
+                "darwin": "",
+                "linux": "/mnt/data/projects"
+            }
+        },
+        "cache": {
+            "path": {
+                "windows": "D:/cache",
+                "darwin": "",
+                "linux": "/mnt/data/cache"
+            }
+        }
     }
-  },
-  "local": {
-    "projects": {
-      "path": {
-        "windows": "D:/projects",
-        "darwin": "",
-        "linux": "/mnt/data/projects"
-      }
-    },
-    "cache": {
-      "path": {
-        "windows": "D:/cache",
-        "darwin": "",
-        "linux": "/mnt/data/cache"
-      }
-    }
-  }
 }

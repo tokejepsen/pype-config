@@ -1,21 +1,17 @@
 {
-  "FTRACK_SERVER": "https://pype.ftrackapp.com",
-  "FTRACK_ACTIONS_PATH": [
-    "{PYPE_MODULE_ROOT}/pype/ftrack/actions"
-  ],
-  "FTRACK_EVENTS_PATH": [
-    "{PYPE_MODULE_ROOT}/pype/ftrack/events"
-  ],
-  "FTRACK_ACTION_SERVER": "{PYPE_ROOT}/repos/ftrack-event-server",
-  "PYTHONPATH": [
-    "{PYPE_MODULE_ROOT}/pype/vendor",
-    "{PYPE_ROOT}/repos/ftrack-event-server"
-  ],
-  "PYBLISHPLUGINPATH": [
-    "{PYPE_MODULE_ROOT}/pype/plugins/ftrack/publish"
-  ],
-  "FTRACK_EVENTS_MONGO_HOST": "{PYPE_LOG_MONGO_HOST}",
-  "FTRACK_EVENTS_MONGO_PORT": "{PYPE_LOG_MONGO_PORT}",
-  "FTRACK_EVENTS_MONGO_DB": "pype",
-  "FTRACK_EVENTS_MONGO_COL": "ftrack_events"
+    "FTRACK_SERVER": "https://clothcat2.ftrackapp.com",
+    "FTRACK_ACTIONS_PATH": [
+        "{PYPE_MODULE_ROOT}/pype/ftrack/actions"
+    ],
+    "FTRACK_EVENTS_PATH": [
+        "{PYPE_MODULE_ROOT}/pype/ftrack/events"
+    ],
+    "FTRACK_ACTION_SERVER": "{PYPE_ROOT}/repos/ftrack-event-server",
+    "PYTHONPATH": [
+        "{PYPE_MODULE_ROOT}/pype/vendor",
+        "{PYPE_ROOT}/repos/ftrack-event-server"
+    ],
+    "PYBLISHPLUGINPATH": [
+        "{PYPE_MODULE_ROOT}/pype/plugins/ftrack/publish"
+    ]
 }

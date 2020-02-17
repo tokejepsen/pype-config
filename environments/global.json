@@ -23,10 +23,6 @@
         "windows": "{VIRTUAL_ENV}/Scripts/python.exe",
         "linux": "{VIRTUAL_ENV}/Scripts/python"
     },
-    "PYPE_LOG_MONGO_HOST": "localhost",
-    "PYPE_LOG_MONGO_PORT": "2707",
-    "PYPE_LOG_MONGO_DB": "pypeLogs",
-    "PYPE_LOG_MONGO_COL": "logs",
     "PYBLISH_GUI": [
         "pyblish_lite"
     ]
