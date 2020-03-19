@@ -24,22 +24,5 @@
                 "linux": "/mnt/share/core"
             }
         }
-    },
-    "local": {
-        "projects": {
-            "path": {
-                "windows": "D:/projects",
-                "darwin": "",
-                "linux": "/mnt/data/projects"
-            }
-        },
-        "cache": {
-            "path": {
-                "windows": "D:/cache",
-                "darwin": "",
-                "linux": "/mnt/data/cache"
-            }
-        }
     }
-}
 }
