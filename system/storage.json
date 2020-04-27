@@ -2,12 +2,12 @@
     "studio": {
         "projects": {
             "path": {
-                "windows": "//evo2/stc/projects",
+                "windows": "//evo2/lbb2/",
                 "darwin": "",
                 "linux": "/mnt/share/projects"
             },
             "mount": {
-                "windows": "S:/projects",
+                "windows": "L:/",
                 "darwin": "",
                 "linux": "/mnt/share/core"
             }
